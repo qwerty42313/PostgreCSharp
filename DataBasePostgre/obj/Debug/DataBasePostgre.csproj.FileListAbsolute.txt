@@ -1,0 +1,135 @@
+C:\Users\ilovw\OneDrive\Рабочий стол\Мои работы\DataBasePostgre\DataBasePostgre\bin\Debug\DataBasePostgre.exe.config
+C:\Users\ilovw\OneDrive\Рабочий стол\Мои работы\DataBasePostgre\DataBasePostgre\bin\Debug\DataBasePostgre.exe
+C:\Users\ilovw\OneDrive\Рабочий стол\Мои работы\DataBasePostgre\DataBasePostgre\bin\Debug\DataBasePostgre.pdb
+C:\Users\ilovw\OneDrive\Рабочий стол\Мои работы\DataBasePostgre\DataBasePostgre\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ilovw\OneDrive\Рабочий стол\Мои работы\DataBasePostgre\DataBasePostgre\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\ilovw\OneDrive\Рабочий стол\Мои работы\DataBasePostgre\DataBasePostgre\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ilovw\OneDrive\Рабочий стол\Мои работы\DataBasePostgre\DataBasePostgre\bin\Debug\Npgsql.dll
+C:\Users\ilovw\OneDrive\Рабочий стол\Мои работы\DataBasePostgre\DataBasePostgre\bin\Debug\System.Buffers.dll
+C:\Users\ilovw\OneDrive\Рабочий стол\Мои работы\DataBasePostgre\DataBasePostgre\bin\Debug\System.Collections.Immutable.dll
+C:\Users\ilovw\OneDrive\Рабочий стол\Мои работы\DataBasePostgre\DataBasePostgre\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ilovw\OneDrive\Рабочий стол\Мои работы\DataBasePostgre\DataBasePostgre\bin\Debug\System.Memory.dll
+C:\Users\ilovw\OneDrive\Рабочий стол\Мои работы\DataBasePostgre\DataBasePostgre\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ilovw\OneDrive\Рабочий стол\Мои работы\DataBasePostgre\DataBasePostgre\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ilovw\OneDrive\Рабочий стол\Мои работы\DataBasePostgre\DataBasePostgre\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ilovw\OneDrive\Рабочий стол\Мои работы\DataBasePostgre\DataBasePostgre\bin\Debug\System.Text.Json.dll
+C:\Users\ilovw\OneDrive\Рабочий стол\Мои работы\DataBasePostgre\DataBasePostgre\bin\Debug\System.Threading.Channels.dll
+C:\Users\ilovw\OneDrive\Рабочий стол\Мои работы\DataBasePostgre\DataBasePostgre\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ilovw\OneDrive\Рабочий стол\Мои работы\DataBasePostgre\DataBasePostgre\bin\Debug\System.ValueTuple.dll
+C:\Users\ilovw\OneDrive\Рабочий стол\Мои работы\DataBasePostgre\DataBasePostgre\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ilovw\OneDrive\Рабочий стол\Мои работы\DataBasePostgre\DataBasePostgre\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\ilovw\OneDrive\Рабочий стол\Мои работы\DataBasePostgre\DataBasePostgre\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ilovw\OneDrive\Рабочий стол\Мои работы\DataBasePostgre\DataBasePostgre\bin\Debug\Npgsql.xml
+C:\Users\ilovw\OneDrive\Рабочий стол\Мои работы\DataBasePostgre\DataBasePostgre\bin\Debug\System.Buffers.xml
+C:\Users\ilovw\OneDrive\Рабочий стол\Мои работы\DataBasePostgre\DataBasePostgre\bin\Debug\System.Collections.Immutable.xml
+C:\Users\ilovw\OneDrive\Рабочий стол\Мои работы\DataBasePostgre\DataBasePostgre\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ilovw\OneDrive\Рабочий стол\Мои работы\DataBasePostgre\DataBasePostgre\bin\Debug\System.Memory.xml
+C:\Users\ilovw\OneDrive\Рабочий стол\Мои работы\DataBasePostgre\DataBasePostgre\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ilovw\OneDrive\Рабочий стол\Мои работы\DataBasePostgre\DataBasePostgre\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ilovw\OneDrive\Рабочий стол\Мои работы\DataBasePostgre\DataBasePostgre\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ilovw\OneDrive\Рабочий стол\Мои работы\DataBasePostgre\DataBasePostgre\bin\Debug\System.Text.Json.xml
+C:\Users\ilovw\OneDrive\Рабочий стол\Мои работы\DataBasePostgre\DataBasePostgre\bin\Debug\System.Threading.Channels.xml
+C:\Users\ilovw\OneDrive\Рабочий стол\Мои работы\DataBasePostgre\DataBasePostgre\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ilovw\OneDrive\Рабочий стол\Мои работы\DataBasePostgre\DataBasePostgre\bin\Debug\System.ValueTuple.xml
+C:\Users\ilovw\OneDrive\Рабочий стол\Мои работы\DataBasePostgre\DataBasePostgre\obj\Debug\DataBasePostgre.csproj.AssemblyReference.cache
+C:\Users\ilovw\OneDrive\Рабочий стол\Мои работы\DataBasePostgre\DataBasePostgre\obj\Debug\DataBasePostgre.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilovw\OneDrive\Рабочий стол\Мои работы\DataBasePostgre\DataBasePostgre\obj\Debug\DataBasePostgre.DataBase.resources
+C:\Users\ilovw\OneDrive\Рабочий стол\Мои работы\DataBasePostgre\DataBasePostgre\obj\Debug\DataBasePostgre.Form1.resources
+C:\Users\ilovw\OneDrive\Рабочий стол\Мои работы\DataBasePostgre\DataBasePostgre\obj\Debug\DataBasePostgre.Properties.Resources.resources
+C:\Users\ilovw\OneDrive\Рабочий стол\Мои работы\DataBasePostgre\DataBasePostgre\obj\Debug\DataBasePostgre.csproj.GenerateResource.cache
+C:\Users\ilovw\OneDrive\Рабочий стол\Мои работы\DataBasePostgre\DataBasePostgre\obj\Debug\DataBasePostgre.csproj.CoreCompileInputs.cache
+C:\Users\ilovw\OneDrive\Рабочий стол\Мои работы\DataBasePostgre\DataBasePostgre\obj\Debug\DataBasePostgre.csproj.CopyComplete
+C:\Users\ilovw\OneDrive\Рабочий стол\Мои работы\DataBasePostgre\DataBasePostgre\obj\Debug\DataBasePostgre.exe
+C:\Users\ilovw\OneDrive\Рабочий стол\Мои работы\DataBasePostgre\DataBasePostgre\obj\Debug\DataBasePostgre.pdb
+C:\Users\ilovw\OneDrive\Рабочий стол\Мои работы\DataBasePostgre\DataBasePostgre\obj\Debug\DataBasePostgre.New.resources
+C:\Users\ilovw\OneDrive\Рабочий стол\Мои работы\DataBasePostgre\DataBasePostgre\obj\Debug\DataBasePostgre.update.resources
+C:\Users\User\Desktop\Csharp_Postgre-main\DataBasePostgre\bin\Debug\DataBasePostgre.exe.config
+C:\Users\User\Desktop\Csharp_Postgre-main\DataBasePostgre\bin\Debug\DataBasePostgre.exe
+C:\Users\User\Desktop\Csharp_Postgre-main\DataBasePostgre\bin\Debug\DataBasePostgre.pdb
+C:\Users\User\Desktop\Csharp_Postgre-main\DataBasePostgre\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\Csharp_Postgre-main\DataBasePostgre\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\Csharp_Postgre-main\DataBasePostgre\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\Csharp_Postgre-main\DataBasePostgre\bin\Debug\Npgsql.dll
+C:\Users\User\Desktop\Csharp_Postgre-main\DataBasePostgre\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\Csharp_Postgre-main\DataBasePostgre\bin\Debug\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Csharp_Postgre-main\DataBasePostgre\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\Csharp_Postgre-main\DataBasePostgre\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\Csharp_Postgre-main\DataBasePostgre\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\Csharp_Postgre-main\DataBasePostgre\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\Csharp_Postgre-main\DataBasePostgre\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\Csharp_Postgre-main\DataBasePostgre\bin\Debug\System.Text.Json.dll
+C:\Users\User\Desktop\Csharp_Postgre-main\DataBasePostgre\bin\Debug\System.Threading.Channels.dll
+C:\Users\User\Desktop\Csharp_Postgre-main\DataBasePostgre\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\Csharp_Postgre-main\DataBasePostgre\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\Csharp_Postgre-main\DataBasePostgre\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\Csharp_Postgre-main\DataBasePostgre\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\User\Desktop\Csharp_Postgre-main\DataBasePostgre\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\User\Desktop\Csharp_Postgre-main\DataBasePostgre\bin\Debug\Npgsql.xml
+C:\Users\User\Desktop\Csharp_Postgre-main\DataBasePostgre\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\Csharp_Postgre-main\DataBasePostgre\bin\Debug\System.Collections.Immutable.xml
+C:\Users\User\Desktop\Csharp_Postgre-main\DataBasePostgre\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\Csharp_Postgre-main\DataBasePostgre\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\Csharp_Postgre-main\DataBasePostgre\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\Csharp_Postgre-main\DataBasePostgre\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\Csharp_Postgre-main\DataBasePostgre\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\Csharp_Postgre-main\DataBasePostgre\bin\Debug\System.Text.Json.xml
+C:\Users\User\Desktop\Csharp_Postgre-main\DataBasePostgre\bin\Debug\System.Threading.Channels.xml
+C:\Users\User\Desktop\Csharp_Postgre-main\DataBasePostgre\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\Csharp_Postgre-main\DataBasePostgre\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Desktop\Csharp_Postgre-main\DataBasePostgre\obj\Debug\DataBasePostgre.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Csharp_Postgre-main\DataBasePostgre\obj\Debug\DataBasePostgre.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Csharp_Postgre-main\DataBasePostgre\obj\Debug\DataBasePostgre.DataBase.resources
+C:\Users\User\Desktop\Csharp_Postgre-main\DataBasePostgre\obj\Debug\DataBasePostgre.Form1.resources
+C:\Users\User\Desktop\Csharp_Postgre-main\DataBasePostgre\obj\Debug\DataBasePostgre.Properties.Resources.resources
+C:\Users\User\Desktop\Csharp_Postgre-main\DataBasePostgre\obj\Debug\DataBasePostgre.New.resources
+C:\Users\User\Desktop\Csharp_Postgre-main\DataBasePostgre\obj\Debug\DataBasePostgre.update.resources
+C:\Users\User\Desktop\Csharp_Postgre-main\DataBasePostgre\obj\Debug\DataBasePostgre.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Csharp_Postgre-main\DataBasePostgre\obj\Debug\DataBasePostgre.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Csharp_Postgre-main\DataBasePostgre\obj\Debug\DataBasePostgre.csproj.CopyComplete
+C:\Users\User\Desktop\Csharp_Postgre-main\DataBasePostgre\obj\Debug\DataBasePostgre.exe
+C:\Users\User\Desktop\Csharp_Postgre-main\DataBasePostgre\obj\Debug\DataBasePostgre.pdb
+C:\Users\ilovw\OneDrive\Рабочий стол\PosgreCSharp-main\DataBasePostgre\bin\Debug\DataBasePostgre.exe.config
+C:\Users\ilovw\OneDrive\Рабочий стол\PosgreCSharp-main\DataBasePostgre\bin\Debug\DataBasePostgre.exe
+C:\Users\ilovw\OneDrive\Рабочий стол\PosgreCSharp-main\DataBasePostgre\bin\Debug\DataBasePostgre.pdb
+C:\Users\ilovw\OneDrive\Рабочий стол\PosgreCSharp-main\DataBasePostgre\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ilovw\OneDrive\Рабочий стол\PosgreCSharp-main\DataBasePostgre\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\ilovw\OneDrive\Рабочий стол\PosgreCSharp-main\DataBasePostgre\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ilovw\OneDrive\Рабочий стол\PosgreCSharp-main\DataBasePostgre\bin\Debug\Npgsql.dll
+C:\Users\ilovw\OneDrive\Рабочий стол\PosgreCSharp-main\DataBasePostgre\bin\Debug\System.Buffers.dll
+C:\Users\ilovw\OneDrive\Рабочий стол\PosgreCSharp-main\DataBasePostgre\bin\Debug\System.Collections.Immutable.dll
+C:\Users\ilovw\OneDrive\Рабочий стол\PosgreCSharp-main\DataBasePostgre\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ilovw\OneDrive\Рабочий стол\PosgreCSharp-main\DataBasePostgre\bin\Debug\System.Memory.dll
+C:\Users\ilovw\OneDrive\Рабочий стол\PosgreCSharp-main\DataBasePostgre\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ilovw\OneDrive\Рабочий стол\PosgreCSharp-main\DataBasePostgre\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ilovw\OneDrive\Рабочий стол\PosgreCSharp-main\DataBasePostgre\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ilovw\OneDrive\Рабочий стол\PosgreCSharp-main\DataBasePostgre\bin\Debug\System.Text.Json.dll
+C:\Users\ilovw\OneDrive\Рабочий стол\PosgreCSharp-main\DataBasePostgre\bin\Debug\System.Threading.Channels.dll
+C:\Users\ilovw\OneDrive\Рабочий стол\PosgreCSharp-main\DataBasePostgre\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ilovw\OneDrive\Рабочий стол\PosgreCSharp-main\DataBasePostgre\bin\Debug\System.ValueTuple.dll
+C:\Users\ilovw\OneDrive\Рабочий стол\PosgreCSharp-main\DataBasePostgre\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ilovw\OneDrive\Рабочий стол\PosgreCSharp-main\DataBasePostgre\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\ilovw\OneDrive\Рабочий стол\PosgreCSharp-main\DataBasePostgre\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ilovw\OneDrive\Рабочий стол\PosgreCSharp-main\DataBasePostgre\bin\Debug\Npgsql.xml
+C:\Users\ilovw\OneDrive\Рабочий стол\PosgreCSharp-main\DataBasePostgre\bin\Debug\System.Buffers.xml
+C:\Users\ilovw\OneDrive\Рабочий стол\PosgreCSharp-main\DataBasePostgre\bin\Debug\System.Collections.Immutable.xml
+C:\Users\ilovw\OneDrive\Рабочий стол\PosgreCSharp-main\DataBasePostgre\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ilovw\OneDrive\Рабочий стол\PosgreCSharp-main\DataBasePostgre\bin\Debug\System.Memory.xml
+C:\Users\ilovw\OneDrive\Рабочий стол\PosgreCSharp-main\DataBasePostgre\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ilovw\OneDrive\Рабочий стол\PosgreCSharp-main\DataBasePostgre\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ilovw\OneDrive\Рабочий стол\PosgreCSharp-main\DataBasePostgre\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ilovw\OneDrive\Рабочий стол\PosgreCSharp-main\DataBasePostgre\bin\Debug\System.Text.Json.xml
+C:\Users\ilovw\OneDrive\Рабочий стол\PosgreCSharp-main\DataBasePostgre\bin\Debug\System.Threading.Channels.xml
+C:\Users\ilovw\OneDrive\Рабочий стол\PosgreCSharp-main\DataBasePostgre\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ilovw\OneDrive\Рабочий стол\PosgreCSharp-main\DataBasePostgre\bin\Debug\System.ValueTuple.xml
+C:\Users\ilovw\OneDrive\Рабочий стол\PosgreCSharp-main\DataBasePostgre\obj\Debug\DataBasePostgre.csproj.AssemblyReference.cache
+C:\Users\ilovw\OneDrive\Рабочий стол\PosgreCSharp-main\DataBasePostgre\obj\Debug\DataBasePostgre.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilovw\OneDrive\Рабочий стол\PosgreCSharp-main\DataBasePostgre\obj\Debug\DataBasePostgre.DataBase.resources
+C:\Users\ilovw\OneDrive\Рабочий стол\PosgreCSharp-main\DataBasePostgre\obj\Debug\DataBasePostgre.Form1.resources
+C:\Users\ilovw\OneDrive\Рабочий стол\PosgreCSharp-main\DataBasePostgre\obj\Debug\DataBasePostgre.Properties.Resources.resources
+C:\Users\ilovw\OneDrive\Рабочий стол\PosgreCSharp-main\DataBasePostgre\obj\Debug\DataBasePostgre.New.resources
+C:\Users\ilovw\OneDrive\Рабочий стол\PosgreCSharp-main\DataBasePostgre\obj\Debug\DataBasePostgre.Update.resources
+C:\Users\ilovw\OneDrive\Рабочий стол\PosgreCSharp-main\DataBasePostgre\obj\Debug\DataBasePostgre.csproj.GenerateResource.cache
+C:\Users\ilovw\OneDrive\Рабочий стол\PosgreCSharp-main\DataBasePostgre\obj\Debug\DataBasePostgre.csproj.CoreCompileInputs.cache
+C:\Users\ilovw\OneDrive\Рабочий стол\PosgreCSharp-main\DataBasePostgre\obj\Debug\DataBasePostgre.csproj.CopyComplete
+C:\Users\ilovw\OneDrive\Рабочий стол\PosgreCSharp-main\DataBasePostgre\obj\Debug\DataBasePostgre.exe
+C:\Users\ilovw\OneDrive\Рабочий стол\PosgreCSharp-main\DataBasePostgre\obj\Debug\DataBasePostgre.pdb
